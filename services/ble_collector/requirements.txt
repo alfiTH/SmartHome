@@ -1,0 +1,3 @@
+python-dotenv
+bleak
+influxdb_client
